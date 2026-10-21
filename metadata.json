@@ -1,0 +1,6 @@
+{
+  "name": "NeuroSweep - ADHD Executive Function Task Decomposer",
+  "description": "Cyberpunk-themed, WCAG 2.1 accessible room de-cluttering assistant that decomposes messy room photos into dopamine-friendly micro-tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
